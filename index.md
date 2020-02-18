@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title]
+1999:Future Box Pinball
+<img src="images/future_box_tags.jpg?raw=true"/>
 <img src="images/future_box_thumbnail.jpg?raw=true"/>
 
 ---
