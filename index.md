@@ -9,8 +9,7 @@ This pinball machine has a futuristic twist: Using a transparent TV screen, it p
 ---
 ## Tukki and Champ
 <img src="images/tukki_and_champ_tags_small.jpg?raw=true"/>
-<img src="images/test.gif?raw=true"/>
-<img src="https://www.dropbox.com/s/v2rj9rrotevkd7n/test.gif?raw=true"/>
+<img src="images/tukki_and_champ_gameplay.gif?raw=true"/>
 <img src="images/tukki_and_champ_thumbnails.jpg?raw=true"/>
 
 ---
