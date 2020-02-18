@@ -2,13 +2,13 @@
 
 ---
 # 1999:Future Box Pinball
-<img src="images/future_box_tags_small.jpg?raw=true"/>
+<img src="images/future_box_tags.jpg?raw=true"/>
 <img src="images/future_box_thumbnail.jpg?raw=true"/>
 This pinball machine has a futuristic twist: Using a transparent TV screen, it projects a virtual ball onto a 3D-printed playfield, making it look as though it collides with the real objects. But that’s not everything. We messed around with so many electrical doodads, this thing might as well be called “Tech Gimmicks: The Project.” Face tracking,  ultrasonic sensors, servo motors, an Arduino… - You name it, it’s probably somewhere inside that box. 
 
 ---
 # Tukki and Champ
-<img src="images/tukki_and_champ_tags_small.jpg?raw=true"/>
+<img src="images/tukki_and_champ_tags.jpg?raw=true"/>
 <img src="images/tukki_and_champ_gameplay.gif?raw=true"/>
 <img src="images/tukki_and_champ_thumbnails.jpg?raw=true"/>
 
