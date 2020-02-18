@@ -1,60 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div.a {
-  line-height: normal;
-}
-
-div.b {
-  line-height: 1.6;
-}
-
-div.c {
-  line-height: 80%;
-}
-
-div.d {
-  line-height: 200%;
-}
-</style>
-</head>
-<body>
-
 ## Portfolio
 
 ---
 # 1999:Future Box Pinball
 <img src="images/future_box_tags.jpg?raw=true"/>
 <img src="images/future_box_thumbnail.jpg?raw=true"/>
-This pinball machine has a futuristic twist: Using a transparent TV screen, it projects a virtual ball onto a 3D-printed playfield, making it look as though it collides with the real objects. But that’s not everything. We messed around with so many electrical doodads, this thing might as well be called “Tech Gimmicks: The Project.” Face tracking,  ultrasonic sensors, servo motors, an Arduino… - You name it, it’s probably somewhere inside that box. 
+This pinball machine has a futuristic twist: Using a transparent TV screen, it projects a virtual ball onto a 3D-printed playfield, making it look as though it collides with the real objects.
 
 ---
 # Tukki and Champ
-<h2>line-height: 10px:</h2>
 <img src="images/tukki_and_champ_tags.jpg?raw=true"/>
 <img src="images/tukki_and_champ_gameplay.gif?raw=true"/>
 <img src="images/tukki_and_champ_thumbnails.jpg?raw=true"/>
+In “Tukki & Champ” a chameleon rides a toucan and they compete for food in an asymmetrical, local 2-player matchup.
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
