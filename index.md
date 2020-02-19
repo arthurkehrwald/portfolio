@@ -3,6 +3,7 @@
 ---
 # 1999: Future Box Pinball
 <img src="images/future_box_tags.jpg?raw=true"/>
+
 ---
 <img src="images/future_box_thumbnail_with_skribbles.jpg?raw=true"/>
 
@@ -24,6 +25,7 @@ This pinball machine has a futuristic twist: Using a transparent TV screen, it p
 ---
 # Tukki and Champ
 <img src="images/tukki_and_champ_tags.jpg?raw=true"/>
+
 ---
 <img src="images/tukki_and_champ_gameplay.gif?raw=true"/>
 <img src="images/tukki_and_champ_thumbnails.jpg?raw=true"/>
@@ -34,6 +36,7 @@ In “Tukki & Champ” a chameleon rides a toucan and they compete for food in a
 ---
 # Graph Sync
 <img src="images/graph_sync_tags.jpg?raw=true"/>
+
 ---
 <img src="https://i.gyazo.com/cb60ff3ce690659f991cbc6adc06d729.gif"/>
 <img src="images/graph_sync_explanation_labeled.jpg?raw=true"/>
