@@ -4,20 +4,22 @@
 # 1999:Future Box Pinball
 <img src="images/future_box_tags.jpg?raw=true"/>
 <img src="images/future_box_thumbnail.jpg?raw=true"/>
-This pinball machine has a futuristic twist: Using a transparent TV screen, it projects a virtual ball onto a 3D-printed playfield, making it look as though it collides with the real objects.
+This pinball machine has a futuristic twist: Using a transparent TV screen, it projects a virtual ball onto a 3D-printed playfield, making it look as though it collides with the real objects. The project was started this semester and is still being worked on.
 
 ---
 # Tukki and Champ
 <img src="images/tukki_and_champ_tags.jpg?raw=true"/>
 <img src="images/tukki_and_champ_gameplay.gif?raw=true"/>
 <img src="images/tukki_and_champ_thumbnails.jpg?raw=true"/>
-In “Tukki & Champ” a chameleon rides a toucan and they compete for food in an asymmetrical, local 2-player matchup.
+In “Tukki & Champ” a chameleon rides a toucan and they compete for food in an asymmetrical, local 2-player matchup. One player takes the keyboard and controls the bird while the other uses the mouse to aim the chameleon's tongue.
 
 ---
 # Graph Sync
 <img src="images/graph_sync_tags.jpg?raw=true"/>
-<img src="https://i.gyazo.com/7d226aa71f269110f2e009459075a082.gif"/>
+<img src="https://i.gyazo.com/cb60ff3ce690659f991cbc6adc06d729.gif"/>
 <img src="images/graph_sync_explanation.jpg?raw=true"/>
+This is a personal project that I used to learn the basics of C++ and graph data structures. It works like this: Each puzzle consists of a set of connected buttons, represented by coloured rectangles. Each cross in the table indicates a connection between two buttons. When a button is pressed, all connected buttons (but not the one that was pressed) change colour in the cycle Red -> Green -> Blue -> Red. The goal is to "sync" the graph such that all buttons have the same colour. The example of an alternative visualization in the image above might help in understanding the game.
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
