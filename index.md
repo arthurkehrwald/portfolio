@@ -4,8 +4,10 @@
 # 1999: Future Box Pinball
 <img src="images/future_box_tags.jpg?raw=true"/>
 <img src="images/future_box_thumbnail.jpg?raw=true"/>
+
 ### Summary
 This pinball machine has a futuristic twist: Using a transparent TV screen, it projects a virtual ball onto a 3D printed playfield, making it look as though it collides with the real objects underneath. The project was started this semester and is still being worked on.
+
 ### Features
 * Hardware
   * Transparent Screen
