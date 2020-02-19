@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-#### 1999: Future Box Pinball
+# 1999: Future Box Pinball
 <img src="images/future_box_tags.jpg?raw=true"/>
 
 <img src="images/future_box_thumbnail_with_skribbles.jpg?raw=true"/>
