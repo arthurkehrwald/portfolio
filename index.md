@@ -15,7 +15,7 @@ In “Tukki & Champ” a chameleon rides a toucan and they compete for food in a
 
 ---
 [Project 3 Title](http://example.com/)
-[![Image from Gyazo](https://i.gyazo.com/7d226aa71f269110f2e009459075a082.gif)](https://gyazo.com/7d226aa71f269110f2e009459075a082)
+<img src="https://i.gyazo.com/7d226aa71f269110f2e009459075a082.gif"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
