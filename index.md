@@ -14,7 +14,8 @@ This pinball machine has a futuristic twist: Using a transparent TV screen, it p
 In “Tukki & Champ” a chameleon rides a toucan and they compete for food in an asymmetrical, local 2-player matchup.
 
 ---
-[Project 3 Title](http://example.com/)
+# Graph Sync
+<img src="images/graph_sync_tags.jpg?raw=true"/>
 <img src="https://i.gyazo.com/7d226aa71f269110f2e009459075a082.gif"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
