@@ -34,9 +34,11 @@ In “Tukki & Champ” a chameleon rides a toucan and they compete for food in a
 <img src="images/graph_sync_tags.jpg?raw=true"/>
 <img src="https://i.gyazo.com/cb60ff3ce690659f991cbc6adc06d729.gif"/>
 <img src="images/graph_sync_explanation.jpg?raw=true"/>
+
+### Summary
 This is a personal project I used to learn the basics of C++, graph data structures and problem solving algorithms. It works like this: Each puzzle consists of a set of connected buttons, represented by coloured rectangles. Each cross in the table indicates a connection between two buttons. When a button is pressed, all connected buttons (but not the one that was pressed) change colour in the cycle Red -> Green -> Blue -> Red. The goal is to "sync" the graph such that all buttons have the same colour. In case the player can't do it, I've designed and implemented an algorithm that uses a mixture of brute force and analysis to solve any puzzle of this type instantly (except for ridiculously big graphs). As seen above, the game can alternatively be visualized as a graph, but I chose to use a matrix because I wanted to focus on the technical aspects rather than the user interface.
-<br>
-You can read more about the technical implementation of the game and it's auto-solve algorithm here.
+
+You can read more about the technical implementation of the game and it's auto-solve algorithm [here](/pdf/graphpuzzlegame_documentation_arthurkehrwald.pdf).
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
