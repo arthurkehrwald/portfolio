@@ -18,8 +18,8 @@ This pinball machine has a futuristic twist: Using a transparent TV screen, it p
 
 ### Software Features
 * Off-Axis Camera Projection ([Off-Axis-What?!](https://en.wikibooks.org/wiki/Cg_Programming/Unity/Projection_for_Virtual_Reality#Off-Axis_vs._On-Axis_Perspective_Projection))
-* Face Tracking (matches game perspective with player perspective)
-* Fully modular game programming (no interdependent objects)
+* Face Tracking: Aligns screen contents with 3D prints by matching on-screen perspective to player's head position
+* Fully modular game programming: No interdependency between objects for high flexibility
 
 ---
 # Tukki and Champ
