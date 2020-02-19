@@ -29,7 +29,7 @@ This pinball machine has a futuristic twist: Using a transparent TV screen, it p
 <img src="images/tukki_and_champ_thumbnails.jpg?raw=true"/>
 
 ### Summary
-In “Tukki & Champ” a chameleon rides a toucan and they compete for food in an asymmetrical, local 2-player matchup. One player has the keyboard and controls the bird while the other uses the mouse to aim the chameleon's tongue.
+A chameleon rides a toucan and they compete for food in an asymmetrical, local 2-player matchup. One player has the keyboard and controls the bird while the other uses the mouse to aim the chameleon's tongue. The winner is whoever can catch bugs the fastest without eating the bees.
 
 ---
 # Graph Sync
